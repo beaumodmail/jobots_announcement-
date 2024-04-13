@@ -1,0 +1,11 @@
+Getting started with the JoBots announcement bot:
+
+Starter Bot;
+
+Installing
+1. Download all bot files as a compressed .zip file.
+2. Insert the .zip file to a JoBots FlexyNode PYTHON server.
+3. Unarchive the .zip file in the server, not outside of the server.
+4. Go to startup, additonal packages, and put discord.py.
+
+If any more error upon running the bot, contact "beau_kool" via Discord Direct Messages.
